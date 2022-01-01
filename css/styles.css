@@ -2,7 +2,7 @@ html,
 body {
 	height: 100%;
 	font-size: 1rem;
-   font-family: "Montserrat", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 .gradient {
@@ -15,32 +15,32 @@ body {
 }
 
 .page-header {
-   margin-top: 4rem;
-   font-size: 1.25rem;
-   color: #fff;
+	margin-top: 4rem;
+	font-size: 1.25rem;
+	color: #fff;
 }
 
-.feature ul{
-   padding-left:  2rem;
-   list-style-type: none;
+.feature ul {
+	padding-left: 2rem;
+	list-style-type: none;
 }
 
-.feature ul li{
-   padding-left:2rem;
-   background-image: url("../img/check.svg");
-   background-repeat:no-repeat ;
-   line-height: 1.5rem;
-   margin-bottom: 1rem;
+.feature ul li {
+	padding-left: 2rem;
+	background-image: url("../img/check.svg");
+	background-repeat: no-repeat;
+	line-height: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 .icon {
-   color: #fff;
-   height: 4rem;
-   width: 4rem;
-   padding: 1rem;
+	color: #fff;
+	height: 4rem;
+	width: 4rem;
+	padding: 1rem;
 
-   border-radius: 100%;
-   display: inline-flex;
-   align-items: center;
-   justify-content: center;
+	border-radius: 100%;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
 }
